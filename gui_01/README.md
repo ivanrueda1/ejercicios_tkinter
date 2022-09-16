@@ -10,3 +10,7 @@
   ## Frame operaciones (botones)
 
   ![Frame operaciones](frame_operaciones.png "Frame operaciones")
+
+  ## Frame resultados
+
+  ![Frame resultados](frame_resultados.png " Frame resultados")
